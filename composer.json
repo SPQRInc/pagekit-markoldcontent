@@ -1,0 +1,21 @@
+{
+  "name": "spqr/markoldcontent",
+  "module": "spqr/markoldcontent",
+  "version": "1.0.0",
+  "type": "pagekit-extension",
+  "title": "Mark Old Content",
+  "description": "Shows info box on outdated articles",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Roman Lossin-Beßler",
+      "homepage": "https://spqr.wtf"
+    }
+  ],
+  "extra": {
+    "icon": "icon.svg",
+    "scripts": "scripts.php"
+  },
+  "require": {
+  }
+}
